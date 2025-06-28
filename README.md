@@ -1,4 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Cristian Arturo Hernández Flores
+
+🎓 Soy Técnico en Ingeniería de Sistemas de Información y actualmente estudio la carrera de **Ingeniería en Ciencias de la Computación**.
+
+💼 Trabajo como **Analista VoIP L1**
+
+🛠️ He participado en diversos **proyectos estudiantiles**, desarrollando habilidades en el diseño y construcción de aplicaciones web y móviles.
+
+🔧 Mis herramientas y tecnologías incluyen:
+- **Lenguajes:** JavaScript
+- **Estilos y UI:** CSS, Bootstrap
+- **Frameworks:** React, React Native
+- **Control de versiones:** Git
+- **Arquitectura:** Proyectos basados en el patrón MVC
+
+🚀 Siempre estoy aprendiendo y buscando nuevos desafíos que fortalezcan mis conocimientos en desarrollo de software y tecnologías modernas.
+
+📫 Puedes contactarme a través de cristart.hernandezf@gmail.com ó www.linkedin.com/in/cristian-arturo-hernandez-flores-90911a309.
 
 <!--
 **CristianHF29/CristianHF29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
