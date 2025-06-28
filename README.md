@@ -7,9 +7,9 @@
 🛠️ He participado en diversos **proyectos estudiantiles**, desarrollando habilidades en el diseño y construcción de aplicaciones web y móviles.
 
 🔧 Mis herramientas y tecnologías incluyen:
-- **Lenguajes:** JavaScript
-- **Estilos y UI:** CSS, Bootstrap
-- **Frameworks:** React, React Native
+- **Lenguajes:** C++, C#, PHP y JavaScript ![js](https://github.com/user-attachments/assets/b62f83c2-9b9f-4303-9a42-5399b1bce4ca)
+- **Estilos y UI:** CSS, Bootstrap, tailwindcss
+- **Frameworks:** React, React Native, Spring
 - **Control de versiones:** Git
 - **Arquitectura:** Proyectos basados en el patrón MVC
 
