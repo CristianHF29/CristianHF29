@@ -2,7 +2,7 @@
 
 🎓 I hold a technical degree in Information Systems Engineering and I’m currently pursuing a **Bachelor’s in Computer Science Engineering**.
 
-💼 I work as a **Level 1 VoIP Analyst**, providing technical support and solutions related to telephony and network services.
+💼 I work as a **Level 1 VoIP Analyst**
 
 🛠️ I’ve participated in various **academic projects**, developing skills in web and mobile application development.
 
